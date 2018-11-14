@@ -1,3 +1,7 @@
+---
+layout: "textonly"
+---
+
 # Hello
 
 ## Harry Potter
